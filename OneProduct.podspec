@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
  
 
   spec.name         = "OneProduct"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "可以看着我的做测试哈"
  
   spec.description  = "是一些category工具哈"
@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/GeWanPing/gwpww.git", :tag => "#{spec.version}" }
  
-  spec.source_files  = "OneProduct/**/*.{h,m}"
+  spec.source_files  = "OneProduct/OneProduct/Class/*.{h,m}"
   spec.requires_arc = true
  
 
