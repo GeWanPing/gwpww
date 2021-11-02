@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
  
 
   spec.name         = "OneProduct"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "可以看着我的做测试哈"
  
   spec.description  = "是一些category工具哈"

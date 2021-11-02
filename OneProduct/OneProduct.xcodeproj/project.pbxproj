@@ -22,6 +22,7 @@
 		054B1EFC2730EF14004D5542 /* myView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myView.h; sourceTree = "<group>"; };
 		054B1EFD2730EF14004D5542 /* myView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = myView.m; sourceTree = "<group>"; };
 		054B1EFE2730EF14004D5542 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		054B1F1E27311548004D5542 /* oneProduct.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = oneProduct.h; sourceTree = "<group>"; };
 		056BEC8D272FCA5F0064F44B /* OneProduct.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OneProduct.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		056BEC90272FCA5F0064F44B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		056BEC91272FCA5F0064F44B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -52,6 +53,7 @@
 				054B1EFC2730EF14004D5542 /* myView.h */,
 				054B1EFD2730EF14004D5542 /* myView.m */,
 				054B1EFE2730EF14004D5542 /* UIView+Frame.h */,
+				054B1F1E27311548004D5542 /* oneProduct.h */,
 			);
 			path = Class;
 			sourceTree = "<group>";
