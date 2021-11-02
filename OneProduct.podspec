@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "gwpww"
+  spec.name         = "OneProduct"
   spec.version      = "0.0.1"
   spec.summary      = "可以看着我的做测试哈"
 
@@ -24,9 +24,7 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC
-          是一些category工具哈
-                   DESC
+  spec.description  = "是一些category工具哈"
 
   spec.homepage     = "https://github.com/GeWanPing/gwpww"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -39,8 +37,8 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  #spec.license      = "MIT (example)"
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = "MIT"
+  #spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
